@@ -1,0 +1,69 @@
+img{
+   margin: 50px 10px;
+   padding-left: 500px;
+}
+.box1{
+    background-color: rgb(217, 212, 212);
+    color: black;
+    padding: 0px 30px 30px;
+    text-align: center;
+    height: 30px;
+   
+}
+.box2{
+   
+    padding: 0px;
+    margin-left: 500px;
+    margin-right: 500px;
+    
+    
+}
+.input-box2{
+    height: 15px;
+    width: 300px;
+}
+input{
+    width: 200px;
+}
+
+.box3{
+    background-color: rgb(108, 216, 216);
+    padding: 0px 75px 75px;
+    margin-right: 1000px;
+    height: 8px;
+    margin-top: 2px;
+    text-align: center;
+}
+.box4{
+    background-color: rgb(88, 146, 146);
+    padding: 0px 75px 75px;
+    margin-top: -82px;;
+    margin-right: 500px;
+    margin-left: 430px;
+    height: 7px;
+    text-align: center;
+    float: left;
+}
+.box5{
+    background-color: rgb(122, 191, 167);
+    padding: 0px 75px 75px;
+    margin-right: 383px;
+    height: 8px;
+    margin-top: -82px;
+    text-align: center;
+    margin-bottom: 200px;
+    margin-left: 50px;
+    float: right;
+}
+.yazi{
+    text-align: center;
+    margin-top: 300px;
+    margin-left: 150px;
+    
+}
+.box1,.box2,.box3,.box4,.box5{
+    text-align: center;
+    
+
+}
+
